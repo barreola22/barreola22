@@ -17,5 +17,5 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/ben-arreola-87b7746
+[linkedin]: https://linkedin.com/in/ben-arreola-87b7746
 -->
