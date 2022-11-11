@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben, an <a href="https://linkedin.com/in/ben-arreola-87b7746
+<h1>Hi, I'm Ben, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
