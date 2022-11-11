@@ -4,10 +4,10 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/barreola22/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/barreola22/os-ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/barreola22/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/barreola/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/barreola22/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/barreola22/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
